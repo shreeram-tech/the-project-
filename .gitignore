@@ -1,0 +1,15 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+ai_env/
+venv/
+
+# Large AI Models (Upload these to Google Drive instead)
+*.pt
+*.weights
+
+# Local Settings
+.vscode/
+.env
